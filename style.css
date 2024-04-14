@@ -113,18 +113,18 @@ li{
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 25px;
     justify-content: center;
-    text-align: justify;
+    text-align: center;
     color: #fff;
     padding: 50px;
 }
 #home h2{
-    font-size: 26px;
+    font-size: 29px;
     font-weight: bold;
     margin-bottom: 50px;
 }
 #home p {
     text-align: justify;
-    font-size: 18px;
+    font-size: 19px;
 }
 #infofiches{
     width: 100%;
@@ -132,18 +132,18 @@ li{
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 25px;
     justify-content: center;
-    text-align: justify;
+    text-align: center;
     color: #fff;
     padding: 50px;
 }
 #infofiches h2{
-    font-size: 26px;
+    font-size: 29px;
     font-weight: bold;
     margin-bottom: 50px;
 }
 #infofiches p {
     text-align: justify;
-    font-size: 18px;
+    font-size: 19px;
 }
 #footer{
     display: flex;
